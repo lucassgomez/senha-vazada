@@ -15,3 +15,11 @@ O programa:
 
 ## 🗂 Estrutura do Projeto
 
+senha-vazada/
+│
+├── verificador-senhas/           # Pasta contendo os arquivos principais do projeto
+│   ├── verificador.py            # Código principal que realiza a verificação de senhas
+│   ├── usuarios.csv             # Arquivo CSV com as senhas e e-mails dos usuários
+│   └── README.md                # Este arquivo README
+│
+└── .git/                         # Arquivos de configuração do Git
